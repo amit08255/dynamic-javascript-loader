@@ -1,0 +1,23 @@
+{
+  "name": "dynamic-javascript-loader",
+  "version": "1.0.0",
+  "description": "Dynamically load JavaScript file in your NodeJS app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit08255/dynamic-javascript-loader.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "loader"
+  ],
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit08255/dynamic-javascript-loader/issues"
+  },
+  "homepage": "https://github.com/amit08255/dynamic-javascript-loader#readme"
+}
