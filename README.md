@@ -22,7 +22,7 @@ returns a function of the following interface: function(url[, opts][, cb]) {}
 ## Example
 
 ```js
-var load = require('load-script')
+var load = require('dynamic-javascript-loader')
 
 load('foo.js', function (err, script) {
   if (err) {
